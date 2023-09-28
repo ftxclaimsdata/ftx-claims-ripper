@@ -1,3 +1,5 @@
+NOTE: If possible, use `all.csv` to avoid spamming the site
+
 Rip source: https://restructuring.ra.kroll.com/FTX/Home-ClaimInfo
 
 Rip method:
